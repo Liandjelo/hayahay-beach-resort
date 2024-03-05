@@ -349,9 +349,7 @@ button {
     }
 
     /*main-css*/
-    body {
-        background-size: 100vh 200svh;
-    }
+    
 
     header {
         flex-direction: column;

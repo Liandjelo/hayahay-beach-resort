@@ -297,11 +297,7 @@ input, select, textarea
        width: 320px;
        height: 410px;
     }
-#cottage-images .description span {
-        color: #838383;
-        font-size: 18px;
-    
-    }
+
    /*reservations.css*/
    #reservation-texts p
    {

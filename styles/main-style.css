@@ -264,6 +264,16 @@ button {
 }
 @media screen and (min-width:1700px) {
     /*main-css*/
+#cottage-images .description {
+        color: #838383;
+        font-size: 25px;
+        height: 500px;
+        width: 300px;
+    }
+#cottage-images .description span 
+{
+    font-size: 20px;
+} 
 input, select, textarea
 {
     font-size: 20px;

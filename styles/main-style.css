@@ -14,6 +14,7 @@
     margin: 0px;
     background-attachment: fixed;
     max-width: 100%;
+    min-width: 100%;
 }
 
 * {

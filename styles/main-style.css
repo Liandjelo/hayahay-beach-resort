@@ -379,6 +379,9 @@ button {
 }
 
 @media screen and (min-width: 390px) and (max-width: 508px) {
+    body{
+        min-height: 20%;
+    } 
     nav a {
         font-size: 12px;
         margin-right: 4px;
@@ -391,6 +394,9 @@ button {
 }
 
 @media screen and (min-width: 509px) and (max-width: 637px) {
+      body{
+        min-height: 20%;
+      }
     nav a {
         font-size: 18px;
         margin-right: 4px;
@@ -403,6 +409,9 @@ button {
 }
 
 @media screen and (max-width: 900px) {
+      body{
+        min-height: 20%;
+    }
     header ul {
         margin-top: 0px;
     }
